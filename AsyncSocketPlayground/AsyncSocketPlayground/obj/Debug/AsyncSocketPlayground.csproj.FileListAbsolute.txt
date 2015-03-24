@@ -1,0 +1,6 @@
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\bin\Debug\AsyncSocketPlayground.exe.config
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\bin\Debug\AsyncSocketPlayground.exe
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\bin\Debug\AsyncSocketPlayground.pdb
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\obj\Debug\AsyncSocketPlayground.csprojResolveAssemblyReference.cache
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\obj\Debug\AsyncSocketPlayground.exe
+C:\Users\a.oosthuizen\Documents\GitHub\SocketPlayground\AsyncSocketPlayground\AsyncSocketPlayground\obj\Debug\AsyncSocketPlayground.pdb

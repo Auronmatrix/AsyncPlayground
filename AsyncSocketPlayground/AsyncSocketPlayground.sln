@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketPlayground.Client", "AsyncSocketPlayground\AsyncSocketPlayground.Client.csproj", "{CA6BA0FF-49AA-48AD-84BC-F40BC19B6EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketPlayground.Server", "AsyncSocketPlayground.Server\AsyncSocketPlayground.Server.csproj", "{7080C0E7-85BB-42EF-AF52-641DA0EACFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketPlayground.Middleware", "AsyncSocketPlayground.Middleware\AsyncSocketPlayground.Middleware.csproj", "{EE3CA65A-6485-4AEE-AB45-81259C84E7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6BA0FF-49AA-48AD-84BC-F40BC19B6EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6BA0FF-49AA-48AD-84BC-F40BC19B6EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6BA0FF-49AA-48AD-84BC-F40BC19B6EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6BA0FF-49AA-48AD-84BC-F40BC19B6EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7080C0E7-85BB-42EF-AF52-641DA0EACFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7080C0E7-85BB-42EF-AF52-641DA0EACFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7080C0E7-85BB-42EF-AF52-641DA0EACFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7080C0E7-85BB-42EF-AF52-641DA0EACFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3CA65A-6485-4AEE-AB45-81259C84E7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3CA65A-6485-4AEE-AB45-81259C84E7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3CA65A-6485-4AEE-AB45-81259C84E7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3CA65A-6485-4AEE-AB45-81259C84E7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
